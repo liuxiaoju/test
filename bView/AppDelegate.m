@@ -10,7 +10,7 @@
 #define WIDTH self.window.frame.size.width
 #define HEIGHT self.window.frame.size.height
 @interface AppDelegate ()
-#pragma 界面有规律,控件较多:for循环+局部变量+tag   否则用属性
+#pragma 界面有ssasasasasasa规律,控件较多:for循环+局部变量+tag   否则用属性
 @property (retain, nonatomic) UIButton *aButton;
 @property (retain, nonatomic) UIButton *bButton;
 @end
